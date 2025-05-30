@@ -1,8 +1,5 @@
 # xv6
 
-
-# xv6 Filesystem Extension: Large Files and Symbolic Links
-
 This project extends the xv6 operating system's filesystem by adding support for larger files and symbolic links.
 
 ## Large File Support
